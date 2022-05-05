@@ -27,4 +27,11 @@ things in the site, this test brought to me all the things to primarily focus on
 These being: visual overhauls on the overall site layout, complete change of the confirmation
 page, and fixing the validation issues that our site had.
 
+Sean Khuon
+
+My first usability report that I did with my tester revealed some issues with our site. Disclaimer but this test was done on my personal laptop as the tester did not have his own device at the time of testing. The most distracting
+issue to him was that our prices would spew out an overflow of decimal places. He also had issues navigating the site and found inputting the date for his credit card to be cumbersome. The decimal issue would be fixed before the second round of testing by utilizing toFixed to force the prices to display two decimal places. My tester also pointed out that the navigation would benefit from previous and next options. Lastly, he recommended that after successful completion of checkout that the page redirects back to the homepage.
+The second usability report I did with my second tester was just as useful. He managed to successfully break the site which is extremely valuable data as it shows vulnerabilities. My second tester recommended that there were some form of validation for the inputted data for shipping and billing fields to prevent fraud. He also mentioned some navigation issues namely that for him, the navigation button to go to the shipping page wasn't working correctly for him. I cannot explain how that occurred as the navigation button worked fine for other testers. Also, he tested this on his own device and with the page not fully maximized which highlighted valuable feedback with how the site looks and operates at a different browser size. 
+Overall, both usability reports and tests were extremely useful and some of their feedback were successfully implemented into the site. I thank that both testers were willing to let themselves and their feedback be recorded for the sole purpose of this project.
+
 -----------------------------------------------------------------------------------------------------
